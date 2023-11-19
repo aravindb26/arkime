@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.425.0",
-    "@elastic/elasticsearch": "7.10.0",
+    "@elastic/elasticsearch": "7.17.13",
     "@xingrz/cppzst": "^2.1.0-alpha.8",
     "arkime-notifme-sdk": "^1.11.3",
     "async": "^3.2.4",
